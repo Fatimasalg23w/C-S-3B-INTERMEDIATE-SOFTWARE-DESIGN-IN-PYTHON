@@ -52,6 +52,95 @@ By the end of this course, you will be able to:
 
 This course prepares you to develop applications in diverse domains:
 
+## 📘 Course Content
+
+### 🛠️ Python Environment Setup
+- Setting up a complete Python environment
+- Using the Python.org website
+- Configuring PATH and other environment variables
+
+### 🧱 Object-Oriented Programming (OOP)
+- Proper use of class and instance members and methods
+- Class vs. instance attributes
+- Scope and namespace usage
+- Modules vs. classes
+- Instance, class, and static methods comparison
+- Deep vs. shallow copies (`copy()` vs. `deepcopy()`)
+- Operator overloading
+
+### 🔢 Arrays and Data Structures
+- Multi-dimensional arrays using lists of lists
+- Multi-dimensional arrays using NumPy
+- Limitations of Python's array class
+- List iterators vs. explicit indexing
+- Binary search as a recursion example
+
+### 🧬 Inheritance and Polymorphism
+- The "is-a" relationship
+- Extending base classes
+- Derived classes and class hierarchy
+- Method overriding
+- Private, public, and default members
+- Encapsulation and polymorphism
+
+### 🚀 Advanced OOP Techniques
+- Constructor chaining
+- Method chaining
+- Key (named) parameters
+
+### ⚠️ Error Handling and Events
+- Built-in exception objects
+- Custom exception declarations
+- Manually raising exceptions
+- Alternatives to exceptions
+
+### 🧮 Non-Decimal Arithmetic
+- Bitwise numeric and logical operators
+- Binary and hexadecimal constants
+- Enum types (int and non-int)
+
+### 📦 Containers and Collections
+- Abstract Data Types (ADTs) and Python collections
+- List-like, dict-like, and wrapper containers
+- Vector and linked-list ADTs (`deque`)
+- Hashable ADTs (`Counter`)
+- Implementing ADTs via inheritance
+
+### 🖼️ GUI and Multithreading
+- GUI with Tkinter
+- Tkinter widgets: `message`, `button`, `label`, `text`, `canvas`
+- Layout options: `pack`, `grid`
+- Event handlers: built-in vs. custom
+- Multithreading with `threading.py`
+
+### 🧩 Abstract Base Classes (ABCs)
+- Metaclasses for defining ABCs
+- Defining and using interfaces
+
+### 🧠 Memory and Typing Models
+- Python memory management and symbol tables
+- Runtime object binding and activation records
+- Variable binding, visibility, persistence, and lifetime
+- Strong vs. dynamic typing
+- Duck typing vs. `isinstance()` and `hasattr()`
+
+### 🗃️ Python Collections Specifics
+- `namedtuple()`
+- `deque` for queues and stacks
+- `Counter` for tallies
+- `defaultdict` for key-value pairs
+
+### 📂 File I/O and JSON
+- Output formatting
+- File objects
+- JSON usage in Python
+
+### 🧪 Essential Examples and Assignments
+- String/text processing
+- Numeric computation
+- User interaction
+- Multi-class and compound data projects
+
 - Scientific simulations (physics, chemistry, biology)
 - Games and cellular automata
 - Interactive graphical interfaces
