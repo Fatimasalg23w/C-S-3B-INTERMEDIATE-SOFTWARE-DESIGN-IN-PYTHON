@@ -1,2 +1,3 @@
 # C-S-3B-INTERMEDIATE-SOFTWARE-DESIGN-IN-PYTHON
-Systematic treatment of intermediate concepts in computer science through the study of Python object-oriented programming (OOP). 
+
+Systematic treatment of intermediate concepts in computer science through the study of Python object-oriented programming (OOP). Coding topics include Python sequences, user-defined classes and interfaces, modules, packages, collection classes, threads, lambda expressions, list comprehensions, regular expressions and multi-dimensional arrays. Concept topics include OOP project design, recursion, inheritance, polymorphism, functional programming, linked-lists, FIFOs, LIFOs, event-driven parsing, exceptions, and guarded code.
